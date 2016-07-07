@@ -1,0 +1,9 @@
+cout << "My name is Sushant";
+public ConsumeState();
+if (currChar == '"' && temp != ';') {
+prevChar = currChar;
+currChar = _pIn->get();
+break;
+}
+//ccpp
+/*dsds*/

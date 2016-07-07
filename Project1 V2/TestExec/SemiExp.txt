@@ -1,0 +1,6 @@
+#include <iostream>
+class EatSpecialSingleChars : public ConsumeState
+{
+public:
+int temp;
+}
